@@ -1,2 +1,2 @@
 # sudoku
-Sudoku project with parser, UI
+Sudoku project with parser
